@@ -19,5 +19,5 @@ app.get("/", (req, res) => {
 
 
 app.listen(3000, () => {
-  ;console.log("伺服器已啟動於 http://localhost:3000");
+  console.log("伺服器已啟動於 http://localhost:3000");
 })
